@@ -1,0 +1,7 @@
+Er hatte im Rahmen eines Kryptologie-Workshops (CHES 2013) im August darueber referiert, dass die Standardisierungsbehörde Aenderungen an Keccak vornehmen wolle, die zwar die Geschwindigkeit erhoehten, dafuer aber nach Ansicht der Kritiker die Sicherheit beeinträchtigen koennten. So sollten es statt vier Sicherheits-Niveaus (224, 256, 384 und 512 Bit) nur noch zwei sein: 128 und 256 Bit. Als Konsequenz des Widerstands will das Institut bei den urspruenglich vorgeschlagenen vier Niveaus bleiben.
+
+Zusaetzlich soll es zwei weitere, SHAKE benannte, Hash-Funktionen mit variabler Ausgabelaenge geben, die ebenfalls auf Keccak beruhen und von dessen Entwicklern vorgeschlagen wurden. Im Oktober 2012 hatte das NIST den von fünf Belgiern entwickelten Keccak-Algorithmus als Gewinner des Wettbewerbs um die Nachfolge des kryptographischen Hash-Algorithmus SHA-2 bekanntgegeben. 
+
+Parallel dazu hat das NIST angekuendigt, seinen Prozess zur Standardisierung von Krypto-Verfahren zu ueberarbeiten. Insbesondere soll es eine unabhaengige Begutachtung und eine Moeglichkeit für oeffentliche Stellungnahmen geben.
+
+Dieser Schritt ist eine direkte Konsequenz dessen, dass das NIST im Zuge der Snowden-Veröffentlichungen in die Kritik geraten war.
