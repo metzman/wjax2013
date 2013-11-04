@@ -1,0 +1,3 @@
+Als IBM 2001 die Open-Source-IDE Eclipse präsentierte, war nicht abzusehen, wie sehr die damals neue Entwicklungsumgebung den Markt der Entwicklungsumgebungen beeinflussen sollte.
+Spätestens die Version 3.0 im Jahr 2004 bedeutete den Durchbruch mit der Folge, dass nahezu alle kommerziellen IDEs im Java-Markt entweder irgendwann selbst Eclipse als Basis nutzten oder eingestellt wurden.
+
